@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 60
+*.aps
+*.eto
+*.user
+Level1.cs
+[Bb]in
+[Dd]ebug
+[Rr]elease
+obj
+
+END
